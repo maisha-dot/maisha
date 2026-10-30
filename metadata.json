@@ -1,0 +1,8 @@
+{
+  "name": "IMPAMOPRESS RADAR HOT NEWS",
+  "description": "Live international news intelligence and breaking news monitoring radar. Be First. Know More. Stay Ahead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
